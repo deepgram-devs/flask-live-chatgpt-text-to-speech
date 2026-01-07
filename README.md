@@ -1,6 +1,4 @@
-# Flask Live ChatGPT Text-to-Speech Starter
-
-[![Discord](https://dcbadge.vercel.app/api/server/xWRaCDBtW4?style=flat)](https://discord.gg/xWRaCDBtW4)
+# Flask Live ChatGPT Text-to-Speech Demo
 
 This example app demonstrates how to use the Deepgram Text-to-Speech API over WebSockets with Flask/Python + OpenAI.
 
@@ -93,7 +91,7 @@ If you have found a bug or if you have a feature request, please report them at 
 
 We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
 
-- [Open an issue in this repository](https://github.com/deepgram-starters/flask-live-chatgpt-text-to-speech/issues/new)
+- [Open an issue in this repository](https://github.com/deepgram-devs/flask-live-chatgpt-text-to-speech/issues/new)
 - [Join the Deepgram Github Discussions Community](https://github.com/orgs/deepgram/discussions)
 - [Join the Deepgram Discord Community](https://discord.gg/xWRaCDBtW4)
 
